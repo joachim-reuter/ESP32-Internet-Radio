@@ -1,4 +1,5 @@
 # ESP32 Internet Radio
+![ESP32 Internet Radio](./images/radio.jpg)
 
 Ein kompaktes Internetradio auf Basis eines ESP32 mit 2,25"-TFT-Display, Drehencoder, I2S-Audioausgabe und Akkuanzeige.
 
