@@ -118,8 +118,8 @@ WebServer server(80);
 
 // ---------------- WIFI ----------------
 /*
-const char* ssid = "FRITZ!Box 7590 FI";
-const char* pass = "57426211004645725795";
+const char* ssid = "XXXXXXXX";
+const char* pass = "XXXXXXXX";
 */
 String wifiSSID = "";
 String wifiPASS = "";
