@@ -1,0 +1,7 @@
+Radio MDR;http://mdr-284290-2.sslcast.mdr.de/mdr/284290/2/mp3/high/stream.mp3
+Radio SAW;http://stream.radiosaw.de/saw-anhalt-wittenberg/mp3-192/
+MDR Jump;http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+MDR SPUTNIK;http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+MDR KLASSIK;http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+R.SA;http://streams.rsa-sachsen.de/rsa-oldies/mp3-192/mediaplayerrsa
+Deutschlandfunk;http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
